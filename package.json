@@ -1,0 +1,40 @@
+{
+  "name": "javascript-learning-workshop",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of JavaScript examples and documentation for learning modern JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "learning",
+    "tutorial",
+    "examples",
+    "es6",
+    "es2015",
+    "modern-javascript",
+    "arrays",
+    "async",
+    "promises",
+    "arrow-functions",
+    "destructuring",
+    "spread-operator",
+    "template-literals"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/workshopJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/workshopJS/issues"
+  },
+  "homepage": "https://github.com/yourusername/workshopJS#readme"
+}
+
