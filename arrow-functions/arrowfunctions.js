@@ -132,3 +132,4 @@ console.log(user); // Output: { name: 'Alice', age: 30 }
 const greetWithDefault = (name = "Guest") => `Hello, ${name}!`;
 console.log(greetWithDefault()); // Output: Hello, Guest!
 console.log(greetWithDefault("Bob")); // Output: Hello, Bob!
+

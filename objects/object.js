@@ -199,3 +199,4 @@ function getObjectInfo(obj) {
 const info = getObjectInfo({ name: "John", age: 30 });
 console.log(info);
 // Output: { keys: ['name', 'age'], values: ['John', 30], entries: [...], size: 2 }
+

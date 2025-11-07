@@ -176,3 +176,4 @@ for (const { name, scores: [firstScore, ...otherScores] } of data) {
     console.log(`${name}'s first score: ${firstScore}`);
     console.log(`Other scores: ${otherScores.join(", ")}`);
 }
+

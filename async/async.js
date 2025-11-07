@@ -271,3 +271,4 @@ async function fetchWithAllSettled() {
     console.log("All settled:", results);
     // Output: Array with status and value/reason for each promise
 }
+

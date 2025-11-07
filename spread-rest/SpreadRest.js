@@ -204,3 +204,4 @@ function createConfig(userConfig) {
 const config = createConfig({ theme: 'dark', language: 'fr' });
 console.log(config);
 // Output: { theme: 'dark', language: 'fr', notifications: true }
+

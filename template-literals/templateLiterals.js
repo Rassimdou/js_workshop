@@ -181,3 +181,4 @@ console.log(fullName1, fullName2); // Both output: John Doe
 const userInfo = `Name: ${firstName} ${lastName}, Age: ${age}`;
 // vs
 const userInfoOld = "Name: " + firstName + " " + lastName + ", Age: " + age;
+
