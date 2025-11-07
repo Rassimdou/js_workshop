@@ -175,5 +175,5 @@ If you have questions or suggestions, please open an issue on GitHub.
 
 **Happy Learning! 🎉**
 
-*Last updated: 2024*
+*Last updated: 2025*
 
