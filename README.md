@@ -67,32 +67,9 @@ Or open the files in your browser's console for interactive learning.
 - Try combining concepts from different files
 - Practice by building small projects using these concepts
 
-### For Advanced Developers
 
-- Use as a quick reference guide
-- Share with team members learning JavaScript
-- Contribute improvements and additional examples
 
-## 📁 Project Structure
 
-```
-workshopJS/
-├── Arrays.js              # Array methods and operations
-├── arrowfunctions.js      # Arrow function examples
-├── async.js              # Asynchronous JavaScript
-├── const-let.js          # Variable declarations
-├── destructuring.js      # Destructuring patterns
-├── ErrorHandling.js      # Error handling techniques
-├── object.js             # Object methods
-├── SpreadRest.js         # Spread and rest operators
-├── templateLiterals.js    # Template literals
-├── docs/                 # Detailed documentation (coming soon)
-├── package.json          # Project configuration
-├── .gitignore           # Git ignore rules
-├── CONTRIBUTING.md      # Contribution guidelines
-├── LICENSE              # License information
-└── README.md            # This file
-```
 
 ## 🎯 Learning Path
 
@@ -158,18 +135,7 @@ const [first, second, ...rest] = [1, 2, 3, 4, 5];
 - [JavaScript.info](https://javascript.info/)
 - [ES6 Features](https://github.com/lukehoban/es6features)
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Inspired by the need for clear, practical JavaScript examples
-- Built for the JavaScript learning community
-
-## 📧 Contact
-
-If you have questions or suggestions, please open an issue on GitHub.
 
 ---
 
